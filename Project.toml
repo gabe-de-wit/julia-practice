@@ -1,0 +1,9 @@
+name = "julia_practice"
+uuid = "d8a2815e-3ea3-4b11-b3c4-9ff39648666a"
+authors = ["gabe-de-wit <58444672+gabe-de-wit@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
