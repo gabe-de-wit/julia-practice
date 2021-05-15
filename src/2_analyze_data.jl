@@ -2,7 +2,7 @@ using Pipe
 using DataFrames
 using CSV
 using Dates
-using Plots
+using StatsPlots
 
 ## ----------------- Import
 
@@ -26,22 +26,27 @@ victims = @pipe victims_import |>
     rename(clean_names, _) |>
     transform(_,
         :recorded_date => (x -> Date.(x, "u Y")) => :recorded_date,
-        :sex =>               (x -> replace.(x, "Unrecorded" => missing))             => :sex,
-        :method_of_killing => (x -> replace.(x, "Not known/Not Recorded" => missing)) => :method_of_killing
+        :sex => (x -> replace.(x, "Unrecorded" => missing)) => :sex,
+        :method_of_killing => (x -> replace.(x, "Not known/Not Recorded" => missing)) => :method_of_killing,
+        :borough => (x -> replace(x,
+            "Richmond Upon Thames" => "Richmond upon Thames",
+            "Kingston Upon Thames" => "Kingston upon Thames",
+            "Hammersmith & Fulham" => "Hammersmith and Fulham",
+            "Barking & Dagenham" => "Barking and Dagenham",
+            "Kensington & Chelsea" => "Kensington and Chelsea",
+            "Heathrow" => "Hounslow"
+        )) => :borough
     ) |>
-    transform(
-        _,
+    transform(_,
         :recorded_date => (x -> year.(x)) => :recorded_year,
     )
 
 ppa = @pipe ppa_import |>
     rename(clean_names, _) |>
-    transform(
-        _,
+    transform(_,
         :proceedings_date => (x -> Date.(replace.(x, "Febraury" => "February"), "U Y")) => :proceedings_date, # 'February' was misspelled on one line
     ) |>
-    transform(
-        _,
+    transform(_,
         :proceedings_date => (x -> year.(x)) => :proceedings_year,
     )
 

@@ -1,4 +1,21 @@
 borough,recorded_year,n_victims,population,homicide_rate_per_100k
+Barking and Dagenham,2003,6,166210,3.6098911016184343
+Barking and Dagenham,2004,6,165610,3.6229696274379566
+Barking and Dagenham,2005,6,166275,3.6084799278304014
+Barking and Dagenham,2006,8,167157,4.78591982387815
+Barking and Dagenham,2007,5,169031,2.958037283101916
+Barking and Dagenham,2008,1,172452,0.5798715004754946
+Barking and Dagenham,2009,3,177580,1.689379434621016
+Barking and Dagenham,2010,3,182838,1.6407967709119546
+Barking and Dagenham,2011,1,187418,0.5335666798279781
+Barking and Dagenham,2013,4,194741,2.054010198160634
+Barking and Dagenham,2014,4,198683,2.013257299315996
+Barking and Dagenham,2015,4,202368,1.9765970904490828
+Barking and Dagenham,2016,5,206849,2.4172222249080244
+Barking and Dagenham,2017,3,210513,1.4250901369511622
+Barking and Dagenham,2018,5,212773,2.3499222175745986
+Barking and Dagenham,2019,1,214858,0.4654236751715087
+Barking and Dagenham,2020,2,218367,0.9158893056185229
 Barnet,2003,3,321802,0.9322502656913257
 Barnet,2004,1,323723,0.308906070931012
 Barnet,2005,8,327541,2.442442320198082
@@ -171,6 +188,23 @@ Hackney,2017,3,277475,1.0811784845481573
 Hackney,2018,8,281740,2.8394974089586142
 Hackney,2019,5,286425,1.7456576765296328
 Hackney,2020,5,289488,1.727187310009396
+Hammersmith and Fulham,2003,5,171510,2.9152819077604804
+Hammersmith and Fulham,2004,5,172083,2.905574635495662
+Hammersmith and Fulham,2005,2,173292,1.154121367402996
+Hammersmith and Fulham,2006,2,174675,1.1449835408616
+Hammersmith and Fulham,2007,6,176472,3.3999728002175984
+Hammersmith and Fulham,2008,1,177088,0.5646910010842068
+Hammersmith and Fulham,2009,2,180116,1.1103955228852518
+Hammersmith and Fulham,2010,4,180842,2.211875559881001
+Hammersmith and Fulham,2011,4,182790,2.1883035176979044
+Hammersmith and Fulham,2012,5,180195,2.774771775021504
+Hammersmith and Fulham,2013,2,179030,1.1171312070602692
+Hammersmith and Fulham,2015,2,179754,1.1126317077784083
+Hammersmith and Fulham,2016,3,179998,1.6666851853909486
+Hammersmith and Fulham,2017,1,181889,0.54978585840815
+Hammersmith and Fulham,2018,3,184050,1.6299918500407498
+Hammersmith and Fulham,2019,5,186075,2.687088539567379
+Hammersmith and Fulham,2020,3,190721,1.572978329601879
 Haringey,2003,15,225027,6.665866762655148
 Haringey,2004,11,226472,4.857112579038469
 Haringey,2005,8,229271,3.489320498449433
@@ -239,7 +273,7 @@ Hounslow,2006,5,228126,2.1917712141535817
 Hounslow,2007,3,233454,1.285049731424606
 Hounslow,2008,3,237907,1.260996944184072
 Hounslow,2009,2,243366,0.8218074833789437
-Hounslow,2010,3,249236,1.2036784413166637
+Hounslow,2010,4,249236,1.6049045884222184
 Hounslow,2012,3,259459,1.1562520475296674
 Hounslow,2014,1,265975,0.3759751856377479
 Hounslow,2015,1,269177,0.37150276583809166
@@ -266,6 +300,33 @@ Islington,2017,6,235370,2.5491778901304327
 Islington,2018,5,238267,2.0984861520898823
 Islington,2019,4,241589,1.6557045229708305
 Islington,2020,4,242827,1.64726327797156
+Kensington and Chelsea,2003,1,165268,0.6050778130067527
+Kensington and Chelsea,2004,7,165752,4.223176794246826
+Kensington and Chelsea,2005,6,168375,3.56347438752784
+Kensington and Chelsea,2006,2,165245,1.2103240642682078
+Kensington and Chelsea,2014,4,156591,2.554425222394646
+Kensington and Chelsea,2015,5,158112,3.162315320785266
+Kensington and Chelsea,2016,2,157127,1.2728557154403761
+Kensington and Chelsea,2017,2,157954,1.2661914228193019
+Kensington and Chelsea,2018,2,159301,1.2554848996553694
+Kensington and Chelsea,2019,5,160531,3.114663211466944
+Kensington and Chelsea,2020,1,160794,0.6219137530007338
+Kingston upon Thames,2003,1,149683,0.6680785393130816
+Kingston upon Thames,2004,2,151055,1.3240210519347257
+Kingston upon Thames,2005,2,152489,1.3115700148863196
+Kingston upon Thames,2006,2,153667,1.3015156149335902
+Kingston upon Thames,2007,1,154485,0.6473120367673236
+Kingston upon Thames,2009,1,157307,0.6356996192159281
+Kingston upon Thames,2011,1,160469,0.6231733231963805
+Kingston upon Thames,2012,2,163939,1.2199659629496338
+Kingston upon Thames,2013,1,166826,0.599426947837867
+Kingston upon Thames,2014,4,169991,2.3530657505397343
+Kingston upon Thames,2015,1,173558,0.5761762638426348
+Kingston upon Thames,2016,2,176140,1.1354604292040422
+Kingston upon Thames,2017,2,178419,1.1209568487661066
+Kingston upon Thames,2018,3,179581,1.6705553482829474
+Kingston upon Thames,2019,2,180598,1.1074319759908748
+Kingston upon Thames,2020,2,182728,1.0945230068736045
 Lambeth,2003,15,272195,5.510755157148368
 Lambeth,2004,9,274262,3.281533715935857
 Lambeth,2005,7,277620,2.5214321734745333
@@ -350,6 +411,16 @@ Redbridge,2017,4,303887,1.316278748350538
 Redbridge,2018,5,305910,1.6344676538851295
 Redbridge,2019,7,307690,2.2750170626279695
 Redbridge,2020,9,312264,2.8821766197832606
+Richmond upon Thames,2003,3,177182,1.693174250206003
+Richmond upon Thames,2004,4,179312,2.23074863924333
+Richmond upon Thames,2005,3,181508,1.6528197104259867
+Richmond upon Thames,2006,1,182520,0.5478851632697787
+Richmond upon Thames,2012,1,189145,0.5286949165983769
+Richmond upon Thames,2013,1,191365,0.5225615969482402
+Richmond upon Thames,2014,2,193585,1.0331378980809465
+Richmond upon Thames,2018,3,199419,1.5043701954176882
+Richmond upon Thames,2019,3,200703,1.4947459679227515
+Richmond upon Thames,2020,1,201713,0.495753868119556
 Southwark,2003,13,255242,5.093205663644698
 Southwark,2004,10,257257,3.88716342023735
 Southwark,2005,11,261811,4.201504138481576
@@ -451,75 +522,3 @@ Westminster,2017,10,250049,3.9992161536338875
 Westminster,2018,2,254375,0.7862407862407863
 Westminster,2019,4,258511,1.5473229379020623
 Westminster,2020,4,259981,1.5385739727133907
-Richmond Upon Thames,2003,3,,
-Hammersmith & Fulham,2003,5,,
-Barking & Dagenham,2003,6,,
-Kensington & Chelsea,2003,1,,
-Kingston Upon Thames,2003,1,,
-Richmond Upon Thames,2004,4,,
-Hammersmith & Fulham,2004,5,,
-Barking & Dagenham,2004,6,,
-Kensington & Chelsea,2004,7,,
-Kingston Upon Thames,2004,2,,
-Richmond Upon Thames,2005,3,,
-Barking & Dagenham,2005,6,,
-Kensington & Chelsea,2005,6,,
-Kingston Upon Thames,2005,2,,
-Hammersmith & Fulham,2005,2,,
-Barking & Dagenham,2006,8,,
-Kensington & Chelsea,2006,2,,
-Kingston Upon Thames,2006,2,,
-Hammersmith & Fulham,2006,2,,
-Richmond Upon Thames,2006,1,,
-Barking & Dagenham,2007,5,,
-Hammersmith & Fulham,2007,6,,
-Kingston Upon Thames,2007,1,,
-Barking & Dagenham,2008,1,,
-Hammersmith & Fulham,2008,1,,
-Barking & Dagenham,2009,3,,
-Hammersmith & Fulham,2009,2,,
-Kingston Upon Thames,2009,1,,
-Barking & Dagenham,2010,3,,
-Hammersmith & Fulham,2010,4,,
-Heathrow,2010,1,,
-Hammersmith & Fulham,2011,4,,
-Kingston Upon Thames,2011,1,,
-Barking & Dagenham,2011,1,,
-Hammersmith & Fulham,2012,5,,
-Kingston Upon Thames,2012,2,,
-Richmond Upon Thames,2012,1,,
-Barking & Dagenham,2013,4,,
-Kingston Upon Thames,2013,1,,
-Hammersmith & Fulham,2013,2,,
-Richmond Upon Thames,2013,1,,
-Kensington & Chelsea,2014,4,,
-Barking & Dagenham,2014,4,,
-Kingston Upon Thames,2014,4,,
-Richmond Upon Thames,2014,2,,
-Hammersmith & Fulham,2015,2,,
-Kingston Upon Thames,2015,1,,
-Kensington & Chelsea,2015,5,,
-Barking & Dagenham,2015,4,,
-Kingston Upon Thames,2016,2,,
-Kensington & Chelsea,2016,2,,
-Barking & Dagenham,2016,5,,
-Hammersmith & Fulham,2016,3,,
-Barking & Dagenham,2017,3,,
-Kingston Upon Thames,2017,2,,
-Kensington & Chelsea,2017,2,,
-Hammersmith & Fulham,2017,1,,
-Hammersmith & Fulham,2018,3,,
-Barking & Dagenham,2018,5,,
-Kensington & Chelsea,2018,2,,
-Kingston Upon Thames,2018,3,,
-Richmond Upon Thames,2018,3,,
-Richmond Upon Thames,2019,3,,
-Kensington & Chelsea,2019,5,,
-Hammersmith & Fulham,2019,5,,
-Kingston Upon Thames,2019,2,,
-Barking & Dagenham,2019,1,,
-Richmond Upon Thames,2020,1,,
-Kingston Upon Thames,2020,2,,
-Kensington & Chelsea,2020,1,,
-Hammersmith & Fulham,2020,3,,
-Barking & Dagenham,2020,2,,
